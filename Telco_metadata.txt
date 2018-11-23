@@ -1,4 +1,4 @@
-# Metadata for 3G Public Cellular Mobile Telephone Services  - Nation-wide Service Coverage
+# Metadata for 3G Public Cellular Mobile Telephone Services - Nation-wide Service Coverage
 ---
 Identifier: 'f2f39aa0-7e35-4edc-80d8-c2a09e2c587a'
 Name: '3g-public-cellular-mobile-telephone-services-nation-wide-service-coverage'
